@@ -7,7 +7,7 @@
 </head>
 <body>
     
-<h1>Dashboard for {{$user}}</h1>
+<h1>Dashboard forrrrrrr {{$user}}</h1>
 
 </body>
 </html>
